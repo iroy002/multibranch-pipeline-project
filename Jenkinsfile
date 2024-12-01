@@ -16,4 +16,3 @@ pipeline {
         }
     }
 }
-Note: For an explanatio
